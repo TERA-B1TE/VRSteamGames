@@ -80,4 +80,4 @@ The behavior of the scripts can be modified by changing the variables at the top
 * `SAVE_INTERVAL`: How often to save the Excel file (default: every 5 games).
 * `REQUEST_INTERVAL`: The pause between API calls (default: 0.75 seconds).
 * `RETRY_DELAY`: How long to wait after an API error (default: 50 seconds).
-* `COUNTRY_CURRENCY_MAP`: You can
+* `COUNTRY_CURRENCY_MAP`: You can change which currencies are being collected in this list (each currency is an request).
